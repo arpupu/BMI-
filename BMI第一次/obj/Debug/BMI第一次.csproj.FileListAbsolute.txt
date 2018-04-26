@@ -1,0 +1,6 @@
+C:\git\BMI第一次\BMI第一次\bin\Debug\BMI第一次.exe.config
+C:\git\BMI第一次\BMI第一次\bin\Debug\BMI第一次.exe
+C:\git\BMI第一次\BMI第一次\bin\Debug\BMI第一次.pdb
+C:\git\BMI第一次\BMI第一次\obj\Debug\BMI第一次.csprojResolveAssemblyReference.cache
+C:\git\BMI第一次\BMI第一次\obj\Debug\BMI第一次.exe
+C:\git\BMI第一次\BMI第一次\obj\Debug\BMI第一次.pdb
